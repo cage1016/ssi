@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ssi/categories/</loc>
+    <loc>https://kaichu.io/ssi/categories/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/cloud-object-storage/</loc>
+    <loc>https://kaichu.io/ssi/posts/cloud-object-storage/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/flash-system/</loc>
+    <loc>https://kaichu.io/ssi/posts/flash-system/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/</loc>
+    <loc>https://kaichu.io/ssi/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/open-software-family/</loc>
+    <loc>https://kaichu.io/ssi/posts/open-software-family/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/</loc>
+    <loc>https://kaichu.io/ssi/posts/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/categories/power/</loc>
+    <loc>https://kaichu.io/ssi/categories/power/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/power-system-software/</loc>
+    <loc>https://kaichu.io/ssi/posts/power-system-software/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/power10/</loc>
+    <loc>https://kaichu.io/ssi/posts/power10/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/power7/</loc>
+    <loc>https://kaichu.io/ssi/posts/power7/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/power8/</loc>
+    <loc>https://kaichu.io/ssi/posts/power8/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/power9/</loc>
+    <loc>https://kaichu.io/ssi/posts/power9/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/san-ibm-b-type/</loc>
+    <loc>https://kaichu.io/ssi/posts/san-ibm-b-type/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/categories/storage/</loc>
+    <loc>https://kaichu.io/ssi/categories/storage/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/categories/stroage/</loc>
+    <loc>https://kaichu.io/ssi/categories/stroage/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/tape-drive/</loc>
+    <loc>https://kaichu.io/ssi/posts/tape-drive/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/tape-library/</loc>
+    <loc>https://kaichu.io/ssi/posts/tape-library/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/posts/tape-media/</loc>
+    <loc>https://kaichu.io/ssi/posts/tape-media/</loc>
     <lastmod>2023-04-02T20:16:49+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ssi/pages/about/</loc>
+    <loc>https://kaichu.io/ssi/pages/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/ssi/pages/contact/</loc>
+    <loc>https://kaichu.io/ssi/pages/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/ssi/pages/</loc>
+    <loc>https://kaichu.io/ssi/pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/ssi/tags/</loc>
+    <loc>https://kaichu.io/ssi/tags/</loc>
   </url>
 </urlset>

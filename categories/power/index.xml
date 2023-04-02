@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>power on IBM SSI Product Life Cycle dates</title>
-    <link>http://localhost:1313/ssi/categories/power/</link>
+    <link>https://kaichu.io/ssi/categories/power/</link>
     <description>Recent content in power on IBM SSI Product Life Cycle dates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="http://localhost:1313/ssi/categories/power/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="https://kaichu.io/ssi/categories/power/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power System Software</title>
-      <link>http://localhost:1313/ssi/posts/power-system-software/</link>
+      <link>https://kaichu.io/ssi/posts/power-system-software/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/ssi/posts/power-system-software/</guid>
+      <guid>https://kaichu.io/ssi/posts/power-system-software/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents 5765-G98 IBM AIX Standard Edition 7.3 5770-SS1 IBM i Operating System 7.5 5765-G98 IBM AIX Standard Edition 7.3 http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS5765-G98&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
 IBM Asia Pacific Sales Manual
@@ -22,40 +22,40 @@ Program Number VRM Announced Available Marketing Withdrawn Service Discontinued 
     
     <item>
       <title>Power10</title>
-      <link>http://localhost:1313/ssi/posts/power10/</link>
+      <link>https://kaichu.io/ssi/posts/power10/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/ssi/posts/power10/</guid>
+      <guid>https://kaichu.io/ssi/posts/power10/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 9043+01 IBM Power E1050 enterprise midrange technology-based server Family 9080+04 IBM Power E1080 Enterprise server Family 9105+01 IBM Power S1022 (9105-22A) Family 9105+02 IBM Power S1024 (9105-42A) Family 9105+03 IBM Power S1022s (9105-22B) Family 9105+04 IBM Power S1014 (9105-41B) Family 9786+01 IBM Power L1022 (9786-22H) Family 9786+02 IBM Power L1024 (9786-42H) Family 9043+01 IBM Power E1050 enterprise midrange technology-based server http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9043-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww</description>
     </item>
     
     <item>
       <title>Power7</title>
-      <link>http://localhost:1313/ssi/posts/power7/</link>
+      <link>https://kaichu.io/ssi/posts/power7/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/ssi/posts/power7/</guid>
+      <guid>https://kaichu.io/ssi/posts/power7/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 7895+01 IBM Flex System p460 Compute Node (7895-42X) Family 7895+02 IBM Flex System p260 Compute Node (7895-22X) Family 7895+04 IBM Flex System p460 Compute Node (7895-43X) Family 7895+05 IBM Flex System p260 Compute Node Family 7954+01 IBM Flex System p270 Compute Node 7954 24X Family 8202+01 IBM Power 720 Express Server Family 8202+02 IBM Power 720 server Family 8202+03 IBM Power 720 Express Family 8205+01 IBM Power 740 Express Server Family 8205+02 IBM Power 740 Express server Family 8205+03 IBM Power 740 Express Family 8231+01 IBM Power 710 and 730 Express Servers Family 8231+02 IBM Power 710 Express server Family 8231+03 IBM Power 730 Express server Family 8231+04 IBM Power 710 Express Server Family 8231+05 IBM Power 730 Express server Family 8233+01 IBM Power 750 Express Server Family 8408+01 IBM Power 750 Express Family 9109+01 IBM Power 760 Family 9117+03 IBM Power 770 Server MMB Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC) Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD) Family 9119+04 IBM Power 795 Server Family 9179+01 IBM Power 780 Server Family 9179+02 IBM Power 780 Server Family 9179+03 IBM Power 780 Server (9179-MHD) Family 7895+01 IBM Flex System p460 Compute Node (7895-42X) http://www.</description>
     </item>
     
     <item>
       <title>Power8</title>
-      <link>http://localhost:1313/ssi/posts/power8/</link>
+      <link>https://kaichu.io/ssi/posts/power8/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/ssi/posts/power8/</guid>
+      <guid>https://kaichu.io/ssi/posts/power8/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 8284+01 IBM Power System S822 server Family 8284+02 IBM Power System S812 server Model 21A Family 8286+01 IBM Power System S814 server Family 8286+02 IBM Power System S824 server Family 8408+02 IBM Power System E850 Model E8E Family 8408+03 IBM Power System E850C server model 44E Family 9080+01 IBM Power System E880C (9080-MHE) Family 9080+02 IBM Power E870C Enterprise server Model MME Family 9119+05 IBM Power System E880 (9119-MHE) Family 9119+06 IBM Power 870 Server (9119-MME) Family 8284+01 IBM Power System S822 server http://www.</description>
     </item>
     
     <item>
       <title>Power9</title>
-      <link>http://localhost:1313/ssi/posts/power9/</link>
+      <link>https://kaichu.io/ssi/posts/power9/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/ssi/posts/power9/</guid>
+      <guid>https://kaichu.io/ssi/posts/power9/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 9009+01 IBM Power System S922 (9009-22A) Family 9009+02 IBM Power System S924 (9009-42A) Family 9009+04 IBM Power System S922 (9009-22G) Family 9009+01 IBM Power System S922 (9009-22A) http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
 IBM Asia Pacific Sales Manual
