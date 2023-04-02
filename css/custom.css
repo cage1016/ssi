@@ -1,0 +1,45 @@
+/*Add your custom css here. This will override any existinc thems css*/
+
+table{
+    font-family: 'Oswald', sans-serif;
+    border-collapse:collapse;
+  
+  }
+  
+  th{
+    background-color:#009879;
+    color:#ffffff;
+    width:25vw;
+    height:75px;
+  }
+  
+  td{
+    background-color:#ffffff;
+    width:25vw;
+    height:50px;
+    text-align:center;
+  }
+  
+  tr{
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  tr:last-of-type{
+    /* border-bottom: 2px solid #009879; */
+  }
+  
+  tr:nth-of-type(even) td{
+    background-color:#f3f3f3;
+  }
+
+table + p {
+     padding-top: 10px;
+}
+
+.container .section {
+    margin: 40px 0;
+}
+
+table + blockquote {
+    margin-top: 30px;
+}

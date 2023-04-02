@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>storage on IBM SSI Product Life Cycle dates</title>
+    <link>http://example.org/categories/storage/</link>
+    <description>Recent content in storage on IBM SSI Product Life Cycle dates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="http://example.org/categories/storage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAN - IBM b-type</title>
+      <link>http://example.org/posts/san-ibm-b-type/</link>
+      <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/san-ibm-b-type/</guid>
+      <description>update: Sunday, 02-Apr-23 20:16:49 CST
+Table of contents Family 2498+06 IBM System Networking SAN96B-5 Family 2498+11 IBM System Storage SAN42B-R Family 8960+01 IBM Storage Networking SAN64B-6 Family 8960+03 IBM Storage Networking SAN128B-6 Family 8960+04 IBM Storage Networking SAN18B-6 Family 8960+05 IBM Storage Networking SAN128B-6 Family 8960+06 IBM Storage Networking SAN64B-7 Family 8960+07 IBM Storage Networking SAN64B-6 Family 8961+01 IBM Storage Networking SAN256B-6 Family 8961+02 IBM Storage Networking SAN512B-6 Family 8961+03 IBM Storage Networking SAN256B-7 Family 8961+04 IBM Storage Networking SAN512B-7 Family 8969+01 IBM IBM Storage Networking SAN24B-6 Family 8969+02 IBM Storage Networking SAN128B-7 Family 9239+01 IBM SANnav Family 9240+01 IBM SANnav Family 9241+01 IBM SANnav Family 2498+06 IBM System Networking SAN96B-5 http://www.</description>
+    </item>
+    
+    <item>
+      <title>Tape Drive</title>
+      <link>http://example.org/posts/tape-drive/</link>
+      <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/tape-drive/</guid>
+      <description>update: Sunday, 02-Apr-23 20:16:49 CST
+Table of contents Family 3580+18 IBM TS2270 Tape Drive Model H7S Family 3580+19 IBM TS2280 Tape Drive Model H8S Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S Family 3588+07 IBM TS1070 Tape Drive Model F7C Family 3588+08 IBM TS1070 Tape Drive Model F7A Family 3588+09 IBM TS1080 Tape Drive Model F8A Family 3588+10 IBM TS1080 Tape Drive Model F8C Family 3588+11 IBM TS1080 Tape Drive Model F8S Family 3588+12 IBM LTO 9 Tape Drive models F9C, F9S, and S9C Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive Family 3592+13 IBM TS1160 Tape Drive Model 60F Family 3592+14 IBM TS1160 Tape Drive Model 60G Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500 Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure Family 3580+18 IBM TS2270 Tape Drive Model H7S http://www.</description>
+    </item>
+    
+    <item>
+      <title>Tape Library</title>
+      <link>http://example.org/posts/tape-library/</link>
+      <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/tape-library/</guid>
+      <description>update: Sunday, 02-Apr-23 20:16:49 CST
+Table of contents Family 3555+01 IBM TS4300 tape library Models L3A and E3A Family 3572+01 IBM System Storage TS2900 Tape Autoloader Family 3584+15 IBM TS4500 Tape Library L55,D55,S55,L25,D25,S25,TR1 Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700 Family 3957+06 IBM TS7770 Models VED Family 3555+01 IBM TS4300 tape library Models L3A and E3A http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3555-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
+IBM Asia Pacific Sales Manual
+Revised: December 13, 2022</description>
+    </item>
+    
+    <item>
+      <title>Tape Media</title>
+      <link>http://example.org/posts/tape-media/</link>
+      <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/tape-media/</guid>
+      <description>update: Sunday, 02-Apr-23 20:16:49 CST
+Table of contents Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004 Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670 Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671 Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652 Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452 Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653 Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service Family 3599+01 IBM Tape Cartridges 3592 Family 3599+02 IBM Tape Cart 3592 Family 3599+03 IBM Tape Cartridge 3592 http://www.</description>
+    </item>
+    
+  </channel>
+</rss>

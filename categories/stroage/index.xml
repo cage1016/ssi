@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stroage on IBM SSI Product Life Cycle dates</title>
+    <link>http://example.org/categories/stroage/</link>
+    <description>Recent content in stroage on IBM SSI Product Life Cycle dates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="http://example.org/categories/stroage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Object Storage</title>
+      <link>http://example.org/posts/cloud-object-storage/</link>
+      <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/cloud-object-storage/</guid>
+      <description>update: Sunday, 02-Apr-23 20:16:49 CST
+Table of contents Family 3401+01 IBM Cloud Object Storage System Hardware Family 3403+01 IBM Cloud Object Storage System Hardware Family 3401+01 IBM Cloud Object Storage System Hardware http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3401-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
+IBM Asia Pacific Sales Manual
+Revised: January 31, 2023
+Type Model Announced Available Marketing Withdrawn Service Discontinued 3401-A00 2016-07-01 2016-07-15 2020-04-28 2024-06-30 3401-A01 2016-07-01 2016-07-15 2020-04-28 2024-06-30 3401-A02 2016-07-01 2016-07-15 2018-06-12 2024-06-30 3401-M00 2016-07-01 2016-07-15 2016-10-25 - 3401-M01 2016-07-01 2016-07-15 2020-04-28 2024-06-30 3401-S00 2016-07-01 2016-07-15 2017-05-12 2021-05-31 3401-S01 2016-07-01 2016-07-15 2020-04-28 2024-06-30 3401-S02 2016-07-01 2016-07-15 2020-04-28 2024-06-30 3401-S03 2016-07-01 2016-07-15 2021-05-09 2024-06-30 3401-S10 2017-04-11 2017-04-21 2020-04-28 2024-06-30 ↑ Back to top</description>
+    </item>
+    
+    <item>
+      <title>FlashSystem</title>
+      <link>http://example.org/posts/flash-system/</link>
+      <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/flash-system/</guid>
+      <description>update: Sunday, 02-Apr-23 20:16:49 CST
+Table of contents Family 2072+05 IBM FlashSystem 5000 Family 2072+06 IBM FlashSystem 5015 and 5035 Family 2076+01 IBM Storwize V7000 Disk System Family 2076+02 IBM Storwize V7000 Disk System Family 2076+03 IBM Storwize V7000 Family 2076+04 IBM Storwize V7000F Family 2076+05 IBM Storwize V7000 Family 2076+06 IBM Storwize V7000 Family 2076+07 IBM FlashSystem 7200 Family 4657+01 IBM FlashSystem 7300 Family 4662+01 IBM FlashSystem 5200 Family 4664+01 IBM FlashSystem 7200 with Expert Care Family 4666+01 IBM FlashSystem 9200 with Expert Care Family 4666+02 IBM FlashSystem 9500 Family 9745+01 IBM FlashSystem Utility models Variable Use billing Family 2072+05 IBM FlashSystem 5000 http://www.</description>
+    </item>
+    
+    <item>
+      <title>Open Software Family</title>
+      <link>http://example.org/posts/open-software-family/</link>
+      <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/open-software-family/</guid>
+      <description>update: Sunday, 02-Apr-23 20:16:49 CST
+Table of contents Family 2145+10 IBM SAN Volume Controller models SA2 and SV2 Family 2145+11 IBM SAN Volume Controller model SV3 Family 2147+02 IBM SAN Volume Controller models SA2 and SV2 Family 2147+03 IBM SAN Volume Controller model SV3 Family 2145+10 IBM SAN Volume Controller models SA2 and SV2 http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
+IBM Asia Pacific Sales Manual
+Revised: July 26, 2022
+Type Model Announced Available Marketing Withdrawn Service Discontinued 2145-SA2 2020-02-11 2020-03-06 - - 2145-SV2 2020-02-11 2020-03-06 2023-01-28 - ↑ Back to top</description>
+    </item>
+    
+  </channel>
+</rss>
