@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on IBM SSI Product Life Cycle dates</title>
-    <link>http://example.org/categories/</link>
+    <link>http://localhost:1313/ssi/categories/</link>
     <description>Recent content in Categories on IBM SSI Product Life Cycle dates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="http://localhost:1313/ssi/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>power</title>
-      <link>http://example.org/categories/power/</link>
+      <link>http://localhost:1313/ssi/categories/power/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/categories/power/</guid>
+      <guid>http://localhost:1313/ssi/categories/power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>storage</title>
-      <link>http://example.org/categories/storage/</link>
+      <link>http://localhost:1313/ssi/categories/storage/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/categories/storage/</guid>
+      <guid>http://localhost:1313/ssi/categories/storage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stroage</title>
-      <link>http://example.org/categories/stroage/</link>
+      <link>http://localhost:1313/ssi/categories/stroage/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/categories/stroage/</guid>
+      <guid>http://localhost:1313/ssi/categories/stroage/</guid>
       <description></description>
     </item>
     

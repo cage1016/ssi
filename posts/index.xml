@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IBM SSI Product Life Cycle dates</title>
-    <link>http://example.org/posts/</link>
+    <link>http://localhost:1313/ssi/posts/</link>
     <description>Recent content in Posts on IBM SSI Product Life Cycle dates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 20:16:49 +0800</lastBuildDate><atom:link href="http://localhost:1313/ssi/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud Object Storage</title>
-      <link>http://example.org/posts/cloud-object-storage/</link>
+      <link>http://localhost:1313/ssi/posts/cloud-object-storage/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/cloud-object-storage/</guid>
+      <guid>http://localhost:1313/ssi/posts/cloud-object-storage/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 3401+01 IBM Cloud Object Storage System Hardware Family 3403+01 IBM Cloud Object Storage System Hardware Family 3401+01 IBM Cloud Object Storage System Hardware http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3401-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
 IBM Asia Pacific Sales Manual
@@ -22,20 +22,20 @@ Type Model Announced Available Marketing Withdrawn Service Discontinued 3401-A00
     
     <item>
       <title>FlashSystem</title>
-      <link>http://example.org/posts/flash-system/</link>
+      <link>http://localhost:1313/ssi/posts/flash-system/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/flash-system/</guid>
+      <guid>http://localhost:1313/ssi/posts/flash-system/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 2072+05 IBM FlashSystem 5000 Family 2072+06 IBM FlashSystem 5015 and 5035 Family 2076+01 IBM Storwize V7000 Disk System Family 2076+02 IBM Storwize V7000 Disk System Family 2076+03 IBM Storwize V7000 Family 2076+04 IBM Storwize V7000F Family 2076+05 IBM Storwize V7000 Family 2076+06 IBM Storwize V7000 Family 2076+07 IBM FlashSystem 7200 Family 4657+01 IBM FlashSystem 7300 Family 4662+01 IBM FlashSystem 5200 Family 4664+01 IBM FlashSystem 7200 with Expert Care Family 4666+01 IBM FlashSystem 9200 with Expert Care Family 4666+02 IBM FlashSystem 9500 Family 9745+01 IBM FlashSystem Utility models Variable Use billing Family 2072+05 IBM FlashSystem 5000 http://www.</description>
     </item>
     
     <item>
       <title>Open Software Family</title>
-      <link>http://example.org/posts/open-software-family/</link>
+      <link>http://localhost:1313/ssi/posts/open-software-family/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/open-software-family/</guid>
+      <guid>http://localhost:1313/ssi/posts/open-software-family/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 2145+10 IBM SAN Volume Controller models SA2 and SV2 Family 2145+11 IBM SAN Volume Controller model SV3 Family 2147+02 IBM SAN Volume Controller models SA2 and SV2 Family 2147+03 IBM SAN Volume Controller model SV3 Family 2145+10 IBM SAN Volume Controller models SA2 and SV2 http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS2145-_h10&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
 IBM Asia Pacific Sales Manual
@@ -45,10 +45,10 @@ Type Model Announced Available Marketing Withdrawn Service Discontinued 2145-SA2
     
     <item>
       <title>Power System Software</title>
-      <link>http://example.org/posts/power-system-software/</link>
+      <link>http://localhost:1313/ssi/posts/power-system-software/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/power-system-software/</guid>
+      <guid>http://localhost:1313/ssi/posts/power-system-software/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents 5765-G98 IBM AIX Standard Edition 7.3 5770-SS1 IBM i Operating System 7.5 5765-G98 IBM AIX Standard Edition 7.3 http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS5765-G98&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
 IBM Asia Pacific Sales Manual
@@ -58,40 +58,40 @@ Program Number VRM Announced Available Marketing Withdrawn Service Discontinued 
     
     <item>
       <title>Power10</title>
-      <link>http://example.org/posts/power10/</link>
+      <link>http://localhost:1313/ssi/posts/power10/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/power10/</guid>
+      <guid>http://localhost:1313/ssi/posts/power10/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 9043+01 IBM Power E1050 enterprise midrange technology-based server Family 9080+04 IBM Power E1080 Enterprise server Family 9105+01 IBM Power S1022 (9105-22A) Family 9105+02 IBM Power S1024 (9105-42A) Family 9105+03 IBM Power S1022s (9105-22B) Family 9105+04 IBM Power S1014 (9105-41B) Family 9786+01 IBM Power L1022 (9786-22H) Family 9786+02 IBM Power L1024 (9786-42H) Family 9043+01 IBM Power E1050 enterprise midrange technology-based server http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9043-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww</description>
     </item>
     
     <item>
       <title>Power7</title>
-      <link>http://example.org/posts/power7/</link>
+      <link>http://localhost:1313/ssi/posts/power7/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/power7/</guid>
+      <guid>http://localhost:1313/ssi/posts/power7/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 7895+01 IBM Flex System p460 Compute Node (7895-42X) Family 7895+02 IBM Flex System p260 Compute Node (7895-22X) Family 7895+04 IBM Flex System p460 Compute Node (7895-43X) Family 7895+05 IBM Flex System p260 Compute Node Family 7954+01 IBM Flex System p270 Compute Node 7954 24X Family 8202+01 IBM Power 720 Express Server Family 8202+02 IBM Power 720 server Family 8202+03 IBM Power 720 Express Family 8205+01 IBM Power 740 Express Server Family 8205+02 IBM Power 740 Express server Family 8205+03 IBM Power 740 Express Family 8231+01 IBM Power 710 and 730 Express Servers Family 8231+02 IBM Power 710 Express server Family 8231+03 IBM Power 730 Express server Family 8231+04 IBM Power 710 Express Server Family 8231+05 IBM Power 730 Express server Family 8233+01 IBM Power 750 Express Server Family 8408+01 IBM Power 750 Express Family 9109+01 IBM Power 760 Family 9117+03 IBM Power 770 Server MMB Family 9117+04 IBM Power 770 POWER7 Server (9117-MMC) Family 9117+05 IBM Power 770 POWER7+ Server (9117-MMD) Family 9119+04 IBM Power 795 Server Family 9179+01 IBM Power 780 Server Family 9179+02 IBM Power 780 Server Family 9179+03 IBM Power 780 Server (9179-MHD) Family 7895+01 IBM Flex System p460 Compute Node (7895-42X) http://www.</description>
     </item>
     
     <item>
       <title>Power8</title>
-      <link>http://example.org/posts/power8/</link>
+      <link>http://localhost:1313/ssi/posts/power8/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/power8/</guid>
+      <guid>http://localhost:1313/ssi/posts/power8/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 8284+01 IBM Power System S822 server Family 8284+02 IBM Power System S812 server Model 21A Family 8286+01 IBM Power System S814 server Family 8286+02 IBM Power System S824 server Family 8408+02 IBM Power System E850 Model E8E Family 8408+03 IBM Power System E850C server model 44E Family 9080+01 IBM Power System E880C (9080-MHE) Family 9080+02 IBM Power E870C Enterprise server Model MME Family 9119+05 IBM Power System E880 (9119-MHE) Family 9119+06 IBM Power 870 Server (9119-MME) Family 8284+01 IBM Power System S822 server http://www.</description>
     </item>
     
     <item>
       <title>Power9</title>
-      <link>http://example.org/posts/power9/</link>
+      <link>http://localhost:1313/ssi/posts/power9/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/power9/</guid>
+      <guid>http://localhost:1313/ssi/posts/power9/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 9009+01 IBM Power System S922 (9009-22A) Family 9009+02 IBM Power System S924 (9009-42A) Family 9009+04 IBM Power System S922 (9009-22G) Family 9009+01 IBM Power System S922 (9009-22A) http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS9009-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
 IBM Asia Pacific Sales Manual
@@ -102,30 +102,30 @@ Family 9009+02 IBM Power System S924 (9009-42A) http://www.</description>
     
     <item>
       <title>SAN - IBM b-type</title>
-      <link>http://example.org/posts/san-ibm-b-type/</link>
+      <link>http://localhost:1313/ssi/posts/san-ibm-b-type/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/san-ibm-b-type/</guid>
+      <guid>http://localhost:1313/ssi/posts/san-ibm-b-type/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 2498+06 IBM System Networking SAN96B-5 Family 2498+11 IBM System Storage SAN42B-R Family 8960+01 IBM Storage Networking SAN64B-6 Family 8960+03 IBM Storage Networking SAN128B-6 Family 8960+04 IBM Storage Networking SAN18B-6 Family 8960+05 IBM Storage Networking SAN128B-6 Family 8960+06 IBM Storage Networking SAN64B-7 Family 8960+07 IBM Storage Networking SAN64B-6 Family 8961+01 IBM Storage Networking SAN256B-6 Family 8961+02 IBM Storage Networking SAN512B-6 Family 8961+03 IBM Storage Networking SAN256B-7 Family 8961+04 IBM Storage Networking SAN512B-7 Family 8969+01 IBM IBM Storage Networking SAN24B-6 Family 8969+02 IBM Storage Networking SAN128B-7 Family 9239+01 IBM SANnav Family 9240+01 IBM SANnav Family 9241+01 IBM SANnav Family 2498+06 IBM System Networking SAN96B-5 http://www.</description>
     </item>
     
     <item>
       <title>Tape Drive</title>
-      <link>http://example.org/posts/tape-drive/</link>
+      <link>http://localhost:1313/ssi/posts/tape-drive/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/tape-drive/</guid>
+      <guid>http://localhost:1313/ssi/posts/tape-drive/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 3580+18 IBM TS2270 Tape Drive Model H7S Family 3580+19 IBM TS2280 Tape Drive Model H8S Family 3580+20 IBM TS2290 SAS Tape Drive Model H9S Family 3588+07 IBM TS1070 Tape Drive Model F7C Family 3588+08 IBM TS1070 Tape Drive Model F7A Family 3588+09 IBM TS1080 Tape Drive Model F8A Family 3588+10 IBM TS1080 Tape Drive Model F8C Family 3588+11 IBM TS1080 Tape Drive Model F8S Family 3588+12 IBM LTO 9 Tape Drive models F9C, F9S, and S9C Family 3592+10 IBM TS1150 Tape Drive and HD2 Tape Drive Family 3592+13 IBM TS1160 Tape Drive Model 60F Family 3592+14 IBM TS1160 Tape Drive Model 60G Family 3592+16 IBM TS1160 Tape Drive Model 60S for IBM TS4500 Family 7226+01 IBM System Storage 7226 Model 1U3 Multi-Media Enclosure Family 3580+18 IBM TS2270 Tape Drive Model H7S http://www.</description>
     </item>
     
     <item>
       <title>Tape Library</title>
-      <link>http://example.org/posts/tape-library/</link>
+      <link>http://localhost:1313/ssi/posts/tape-library/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/tape-library/</guid>
+      <guid>http://localhost:1313/ssi/posts/tape-library/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 3555+01 IBM TS4300 tape library Models L3A and E3A Family 3572+01 IBM System Storage TS2900 Tape Autoloader Family 3584+15 IBM TS4500 Tape Library L55,D55,S55,L25,D25,S25,TR1 Family 3952+03 IBM 3952 Tape Frame Model F07 for IBM TS7700 Family 3957+06 IBM TS7770 Models VED Family 3555+01 IBM TS4300 tape library Models L3A and E3A http://www.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=872/ENUS3555-_h01&amp;amp;infotype=DD&amp;amp;subtype=SM&amp;amp;appname=skmwww
 IBM Asia Pacific Sales Manual
@@ -134,10 +134,10 @@ Revised: December 13, 2022</description>
     
     <item>
       <title>Tape Media</title>
-      <link>http://example.org/posts/tape-media/</link>
+      <link>http://localhost:1313/ssi/posts/tape-media/</link>
       <pubDate>Sun, 02 Apr 2023 20:16:49 +0800</pubDate>
       
-      <guid>http://example.org/posts/tape-media/</guid>
+      <guid>http://localhost:1313/ssi/posts/tape-media/</guid>
       <description>update: Sunday, 02-Apr-23 20:16:49 CST
 Table of contents Family 3589+01 IBM Ultrium Cartridges Models 002, 003, 004 Family 3589+07 IBM Ultrium 6 2.5 TB Data Cartridge Models 550,650,570,670 Family 3589+08 IBM Ultrium 7 6 TB Data Cartridge Models 551, 651, 571, 671 Family 3589+09 IBM Ultrium 8 12 TB Data Cartridge Models 552 and 652 Family 3589+10 IBM Ultrium 7 9 TB Uninitialized Data Cartridge Model 452 Family 3589+11 IBM Ultrium 9 18 TB Data Cartridge Models 553 and 653 Family 3589+12 IBM 3589 Ultrium Cleaning Cartridges Model 005 w/ customized labeling service Family 3599+01 IBM Tape Cartridges 3592 Family 3599+02 IBM Tape Cart 3592 Family 3599+03 IBM Tape Cartridge 3592 http://www.</description>
     </item>
